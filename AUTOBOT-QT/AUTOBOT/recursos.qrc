@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Recursos/Autobot logo.png</file>
+        <file>Recursos/caret-square-up-solid.svg</file>
+        <file>Recursos/caret-square-right-solid.svg</file>
+        <file>Recursos/caret-square-down-solid.svg</file>
+        <file>Recursos/caret-square-left-solid.svg</file>
+        <file>Recursos/play-circle-regular.svg</file>
+        <file>Recursos/check-circle-regular.svg</file>
+        <file>Recursos/edit-regular.svg</file>
+        <file>Recursos/chevron-left-solid.svg</file>
+        <file>Recursos/plus-solid.svg</file>
+    </qresource>
+</RCC>
