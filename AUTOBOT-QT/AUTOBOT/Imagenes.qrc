@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Recursos/Autobot logo.png</file>
+        <file>Recursos/icon.png</file>
+        <file>Recursos/logo-fondo-blanco.png</file>
+    </qresource>
+</RCC>
