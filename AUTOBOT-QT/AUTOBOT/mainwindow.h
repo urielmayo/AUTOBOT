@@ -10,7 +10,7 @@
 #include "server.h"
 #define PORT 3566
 #define WAIT_TIME 100
-#define TRACK_DIR "../../../../tracks"
+#define TRACK_DIR "../tracks"
 //#define TRACK_DIR "../tracks"
 
 QT_BEGIN_NAMESPACE

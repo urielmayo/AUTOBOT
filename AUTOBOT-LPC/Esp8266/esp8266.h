@@ -25,21 +25,8 @@
  **********************************************************************************************************************************/
 
 //wifi casa de Luis
-#define N_SSID "Fibertel WiFi923 2.4GHz"
-#define N_PSWD "0043065082"
-
-//wifi casa random
-//#define N_PSWD "00412463343"
-//#define N_SSID "Fibertel WiFi042 2.4GHz"
-
-//hotspot celular de luis
-//#define N_SSID "Luis cel"
-//#define N_PSWD "luis891891"
-
-//wifi casa de Andres
-//#define N_SSID "Summer 2.4GHz"
-//#define N_PSWD "h34rttounching"
-
+#define N_SSID "xxxx" //insert SSID
+#define N_PSWD "xxxx" //insert PASSWORD
 /***********************************************************************************************************************************
  *** MACROS
  **********************************************************************************************************************************/
